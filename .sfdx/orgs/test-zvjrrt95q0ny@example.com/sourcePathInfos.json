@@ -1,0 +1,1428 @@
+[
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559022824784,
+            "changeTime": 1559022824784,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559022824785,
+            "changeTime": 1559022824785,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559037682559,
+            "changeTime": 1559037682559,
+            "contentHash": "d11cb51c3e21d6d829f5acaada2d6e4da864941d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559037427255,
+            "changeTime": 1559037427255,
+            "isWorkspace": false,
+            "contentHash": "d1ddaaf204a0700e848dea3151c09d118f4d5271"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559032844741,
+            "changeTime": 1559032844741,
+            "contentHash": "7c7187d60b7bf651a3d50d28a9700e395fbbaa7e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559024227150,
+            "changeTime": 1559024227184,
+            "contentHash": "48101f54be047d2941f357e713fca6ba980b6a20",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 8603,
+            "modifiedTime": 1559027840936,
+            "changeTime": 1559027840936,
+            "contentHash": "84c654580f9d049729f32895850e02d2deee816c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027229428,
+            "changeTime": 1559027229428,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1559027840849,
+            "changeTime": 1559027840849,
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1559027840851,
+            "changeTime": 1559027840851,
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 682,
+            "modifiedTime": 1559027840853,
+            "changeTime": 1559027840853,
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 678,
+            "modifiedTime": 1559027840855,
+            "changeTime": 1559027840855,
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1559027840856,
+            "changeTime": 1559027840856,
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 672,
+            "modifiedTime": 1559027840858,
+            "changeTime": 1559027840858,
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1559027840859,
+            "changeTime": 1559027840859,
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3198,
+            "modifiedTime": 1559027840871,
+            "changeTime": 1559027840871,
+            "contentHash": "9578b1f27c59fe9b334a18d18341b9d43ed78399",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559027840874,
+            "changeTime": 1559027840874,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\customerServices.cls",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\customerServices.cls",
+            "isDirectory": false,
+            "size": 1731,
+            "modifiedTime": 1559027840878,
+            "changeTime": 1559027840878,
+            "contentHash": "e0b01ee008d9d2178e7b4a27dcfbc524d523f48c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559027840881,
+            "changeTime": 1559027840881,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+            "isDirectory": false,
+            "size": 1805,
+            "modifiedTime": 1559027840884,
+            "changeTime": 1559027840884,
+            "contentHash": "f1fc1869351106405a22725bddf99efc92e4520f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6313,
+            "modifiedTime": 1559033153191,
+            "changeTime": 1559033153191,
+            "contentHash": "279e9c74409d9cadffa3e9491613ae1df6b4d0be",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6313,
+            "modifiedTime": 1559033153203,
+            "changeTime": 1559033153203,
+            "contentHash": "279e9c74409d9cadffa3e9491613ae1df6b4d0be",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6651,
+            "modifiedTime": 1559033153214,
+            "changeTime": 1559033153214,
+            "contentHash": "afef0d0cfe1de0a25eb1fec22660a06895c1a4df",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 20452,
+            "modifiedTime": 1559033153255,
+            "changeTime": 1559033153255,
+            "contentHash": "9849c4ec36e3e4a6575ffbe27aed7f6d4bfc2b2f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+            "isDirectory": false,
+            "size": 983,
+            "modifiedTime": 1559027840942,
+            "changeTime": 1559027840942,
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+            "isDirectory": false,
+            "size": 1002,
+            "modifiedTime": 1559027840946,
+            "changeTime": 1559027840946,
+            "contentHash": "4a7432fe2f49006371b047db71933841ad0a8698",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027840850,
+            "changeTime": 1559027840850,
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027840847,
+            "changeTime": 1559027840847,
+            "contentHash": "9a580d623f898525e6d5f00988d2a3f8fa28c4c5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027840859,
+            "changeTime": 1559027840859,
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027840870,
+            "changeTime": 1559027840870,
+            "contentHash": "cca34c1d09846e84000f9e65b37d2e8aba66dd21",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559033153178,
+            "changeTime": 1559033153178,
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027840917,
+            "changeTime": 1559027840917,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\customMetadata",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027840945,
+            "changeTime": 1559027840945,
+            "contentHash": "79e57c27e9c09be5656a4f14d138441365219c22",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerList",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027420864,
+            "changeTime": 1559027420864,
+            "contentHash": "aa7903c1d455aef0ce6e57528acdac2692fe7b52",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerTile",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerTile",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027299276,
+            "changeTime": 1559027299276,
+            "contentHash": "5fb27d9a9c0d95870cd5f196048fb721fcc3f4fd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\inlineMessage",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\inlineMessage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027646048,
+            "changeTime": 1559027646071,
+            "contentHash": "b265f458a7aed8b49a22fb71ab09395bc315bda4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\pubsub",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\pubsub",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559027646018,
+            "changeTime": 1559027646067,
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerList\\customerList.html",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerList\\customerList.html",
+            "isDirectory": false,
+            "size": 688,
+            "modifiedTime": 1559027471208,
+            "changeTime": 1559027471208,
+            "contentHash": "221658efb147b100f2b3c8d6e0c99474c0f4b251",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js",
+            "isDirectory": false,
+            "size": 1540,
+            "modifiedTime": 1559027446852,
+            "changeTime": 1559027446852,
+            "contentHash": "e5d922170d56a48303fdd5b96d8020b12ff68dfa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js-meta.xml",
+            "isDirectory": false,
+            "size": 542,
+            "modifiedTime": 1559027499865,
+            "changeTime": 1559027499865,
+            "contentHash": "debf90ee7833dbee66799b8e6c81928566dca26a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.html",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.html",
+            "isDirectory": false,
+            "size": 605,
+            "modifiedTime": 1559027369023,
+            "changeTime": 1559027369023,
+            "contentHash": "7c8ec2d88bf9ab696dfa898452a60e9c76d02ae6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js",
+            "isDirectory": false,
+            "size": 1270,
+            "modifiedTime": 1559027369035,
+            "changeTime": 1559027369035,
+            "contentHash": "9724b512c6a580b86b28fdd681d25925b4de097c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1559027299267,
+            "changeTime": 1559027299267,
+            "contentHash": "13a8f53473150edb08a6d34e9604709ea6758279",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+            "isDirectory": false,
+            "size": 1375,
+            "modifiedTime": 1558951851834,
+            "changeTime": 1558951851834,
+            "contentHash": "9098c96fda28ddc2ac5ac48007426de1413b535a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+            "isDirectory": false,
+            "size": 2522,
+            "modifiedTime": 1558951851836,
+            "changeTime": 1558951851836,
+            "contentHash": "fd3da10d77d065d8d561d0126763af29815821b6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+            "isDirectory": false,
+            "size": 234,
+            "modifiedTime": 1558951851837,
+            "changeTime": 1558951851837,
+            "contentHash": "ec7b5989523c1fe810c5e6fed794a554ca15fe84",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+            "isDirectory": false,
+            "size": 3230,
+            "modifiedTime": 1558951851838,
+            "changeTime": 1558951851838,
+            "contentHash": "dd5fe8df566199947715bc412024c06760f19bab",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1558951851840,
+            "changeTime": 1558951851840,
+            "contentHash": "450b992d3c0aa4b60f00ccac0349f18f4c00f2e1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flexipages\\Home_Page_Default.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 2160,
+            "modifiedTime": 1559028558735,
+            "changeTime": 1559028558735,
+            "contentHash": "9bc9b2913a28338b5806ebd574ea7a2a975b06ae",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559033153163,
+            "changeTime": 1559033153163,
+            "contentHash": "8966e105c87313260cff0664e7452bbe3615e3ae",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559028256654,
+            "changeTime": 1559028256654,
+            "contentHash": "084528634d0926ac36b51bdcf6a2f62af14a9225",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelper",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelper",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559028163949,
+            "changeTime": 1559028163949,
+            "contentHash": "af5a5c9ee853a9b072f6e2338da8c64dc6da5a5a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.auradoc",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1559028256652,
+            "changeTime": 1559028256652,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp",
+            "isDirectory": false,
+            "size": 1031,
+            "modifiedTime": 1559028278933,
+            "changeTime": 1559028278933,
+            "contentHash": "691415bff58ea771826eae3418e12154dbb08fd4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 253,
+            "modifiedTime": 1559028256642,
+            "changeTime": 1559028256642,
+            "contentHash": "69bc744e423eff6fc5015da137642e631c2c9557",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.css",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1559028256647,
+            "changeTime": 1559028256647,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.design",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1559028256655,
+            "changeTime": 1559028256655,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.svg",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAura.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1559028256650,
+            "changeTime": 1559028256650,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraController.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraController.js",
+            "isDirectory": false,
+            "size": 657,
+            "modifiedTime": 1559028412122,
+            "changeTime": 1559028412122,
+            "contentHash": "c4262de3c1bc9fa9c0947214d9d74e43f5102f28",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraHelper.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraHelper.js",
+            "isDirectory": false,
+            "size": 1300,
+            "modifiedTime": 1559028412123,
+            "changeTime": 1559028412123,
+            "contentHash": "1b69ec9ac4087ce00bb4bf242c831d6ec9be0206",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraRenderer.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\reservationHelperAura\\reservationHelperAuraRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1559028256649,
+            "changeTime": 1559028256649,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.html",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.html",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1559028223661,
+            "changeTime": 1559028223661,
+            "contentHash": "457048c2c8681710eeabe09922cc1e77c57c02d9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js",
+            "isDirectory": false,
+            "size": 1481,
+            "modifiedTime": 1559028190135,
+            "changeTime": 1559028190135,
+            "contentHash": "2db1955dc615f04fe3716270ee3831c39d4affb6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelper\\reservationHelper.js-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1559028163946,
+            "changeTime": 1559028163946,
+            "contentHash": "6b913a3095acca5d7d75031b40bf5058b45581cb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flexipages\\Reservation_Manager.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 1157,
+            "modifiedTime": 1559033153160,
+            "changeTime": 1559033153160,
+            "contentHash": "0138d140964822d977baeaaf5d95e30d80e3ed61",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flexipages\\Space_Management_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 511,
+            "modifiedTime": 1559033153164,
+            "changeTime": 1559033153164,
+            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\tabs\\Reservation_Manager.tab-meta.xml",
+            "isDirectory": false,
+            "size": 337,
+            "modifiedTime": 1559033153167,
+            "changeTime": 1559033153167,
+            "contentHash": "367d4d0827b40612042754a9e154beb9ac1e8868",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
+            "isDirectory": false,
+            "size": 1506,
+            "modifiedTime": 1559033153172,
+            "changeTime": 1559033153172,
+            "contentHash": "e264fb321397cbd172496412356825b0d14ec5ed",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\marketServices.cls-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\marketServices.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1559033153175,
+            "changeTime": 1559033153175,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\marketServices.cls",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\classes\\marketServices.cls",
+            "isDirectory": false,
+            "size": 554,
+            "modifiedTime": 1559033153179,
+            "changeTime": 1559033153179,
+            "contentHash": "8ea4256d8dbea13829c9724afa0350483a24c150",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset-meta.xml",
+            "isDirectory": false,
+            "size": 545,
+            "modifiedTime": 1559033153259,
+            "changeTime": 1559033153259,
+            "contentHash": "2d8c95659f0519dd4e501e3ba976fa08fdb6ee4c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\contentassets\\EasySpacesTile01.asset",
+            "isDirectory": false,
+            "size": 148954,
+            "modifiedTime": 1559033153262,
+            "changeTime": 1559033153262,
+            "contentHash": "ceaf48b495afd38bde7871e9ba9f0ad5f0c90a05",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559033153166,
+            "changeTime": 1559033153166,
+            "contentHash": "30dcebc07adbf6717ade349c08f60375431b88e2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559033153171,
+            "changeTime": 1559033153171,
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559033153261,
+            "changeTime": 1559033153261,
+            "contentHash": "9048ce2ca7911dd30382559ef1604aa192fb3eb6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559032919682,
+            "changeTime": 1559032919682,
+            "contentHash": "6568c4922569dfdd12d6096da70f90abc6f2049a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerDetailForm",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerDetailForm",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559032758481,
+            "changeTime": 1559032758481,
+            "contentHash": "da7202d9c5656c8910a65d8221d72f1aaf1a3396",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationDetailForm",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationDetailForm",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559032609553,
+            "changeTime": 1559032609553,
+            "contentHash": "1997eaeca49cb31bb500dcf85b46fbc6308b27e4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelperForm",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelperForm",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559032844748,
+            "changeTime": 1559032844748,
+            "contentHash": "a98a6865770c86849af270570579a1178cef6be8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.auradoc",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1559032919681,
+            "changeTime": 1559032919681,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp",
+            "isDirectory": false,
+            "size": 846,
+            "modifiedTime": 1559032966237,
+            "changeTime": 1559032966237,
+            "contentHash": "a89a04ef4097cd2c7bca114f2d967439e20eea71",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1559032919660,
+            "changeTime": 1559032919660,
+            "contentHash": "3062eab45022bad864eccf7ab00c3db1a1c44714",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.css",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1559032919675,
+            "changeTime": 1559032919675,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.design",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.design",
+            "isDirectory": false,
+            "size": 522,
+            "modifiedTime": 1559032988065,
+            "changeTime": 1559032988065,
+            "contentHash": "672a8f5234a8a11ed47ee8345510bbcba8c956c6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.svg",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetails.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1559032919678,
+            "changeTime": 1559032919678,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsController.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsController.js",
+            "isDirectory": false,
+            "size": 525,
+            "modifiedTime": 1559032966235,
+            "changeTime": 1559032966235,
+            "contentHash": "ce10dac257d8a54e99c1a18f9bd0bd9cd5561e87",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsHelper.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1559032919673,
+            "changeTime": 1559032919673,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsRenderer.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\customerDetails\\customerDetailsRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1559032919677,
+            "changeTime": 1559032919677,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerDetailForm\\customerDetailForm.html",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerDetailForm\\customerDetailForm.html",
+            "isDirectory": false,
+            "size": 881,
+            "modifiedTime": 1559032810025,
+            "changeTime": 1559032810025,
+            "contentHash": "77df14db0ddca38b7d9bc19266a42717a0bfec7c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerDetailForm\\customerDetailForm.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerDetailForm\\customerDetailForm.js",
+            "isDirectory": false,
+            "size": 1317,
+            "modifiedTime": 1559032780528,
+            "changeTime": 1559032780528,
+            "contentHash": "5ef8a4888fbb82088fd74d5815752d6cf4f32696",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerDetailForm\\customerDetailForm.js-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\customerDetailForm\\customerDetailForm.js-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1559032758480,
+            "changeTime": 1559032758480,
+            "contentHash": "9846d6deaa6f5af968f5b6fb6c7ba27efc3eaa5c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationDetailForm\\reservationDetailForm.html",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationDetailForm\\reservationDetailForm.html",
+            "isDirectory": false,
+            "size": 2273,
+            "modifiedTime": 1559032683198,
+            "changeTime": 1559032683198,
+            "contentHash": "ad5f7a072b9991273db3b7ddf8811de4e830e642",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationDetailForm\\reservationDetailForm.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationDetailForm\\reservationDetailForm.js",
+            "isDirectory": false,
+            "size": 2530,
+            "modifiedTime": 1559032652090,
+            "changeTime": 1559032652090,
+            "contentHash": "26d453460fc3a723f92bc9c1c1b580bf763387d1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationDetailForm\\reservationDetailForm.js-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationDetailForm\\reservationDetailForm.js-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1559032609550,
+            "changeTime": 1559032609550,
+            "contentHash": "49d2d2a32fbe47d85634803b6c2d5b536db722b2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelperForm\\reservationHelperForm.html",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelperForm\\reservationHelperForm.html",
+            "isDirectory": false,
+            "size": 284,
+            "modifiedTime": 1559032883969,
+            "changeTime": 1559032883969,
+            "contentHash": "2e8cb44f547c8baf6c7405fc8a7090c741794a7a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelperForm\\reservationHelperForm.js",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelperForm\\reservationHelperForm.js",
+            "isDirectory": false,
+            "size": 873,
+            "modifiedTime": 1559032883977,
+            "changeTime": 1559032883977,
+            "contentHash": "7504949c6aa1e7f7836b5c81196fd92a43d682f0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelperForm\\reservationHelperForm.js-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\lwc\\reservationHelperForm\\reservationHelperForm.js-meta.xml",
+            "isDirectory": false,
+            "size": 236,
+            "modifiedTime": 1559032844745,
+            "changeTime": 1559032844745,
+            "contentHash": "6eec56795a153f3b8cc7b69f45a428d0d9a1608a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flows\\createReservation.flow-meta.xml",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flows\\createReservation.flow-meta.xml",
+            "isDirectory": false,
+            "size": 10893,
+            "modifiedTime": 1559037682563,
+            "changeTime": 1559037682563,
+            "contentHash": "e2036c086e82f248d616aca838ee7341a5861872",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flows",
+        {
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\flows",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559037682562,
+            "changeTime": 1559037682562,
+            "contentHash": "4d2039221ff81b177bd6cfc11bb10405850771dc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559037427284,
+            "changeTime": 1559037427284,
+            "contentHash": "4648ef16eb698ed0953fc4615feb889b790baea7"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1559037427283,
+            "changeTime": 1559037427283,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 260,
+            "modifiedTime": 1559037519077,
+            "changeTime": 1559037519077,
+            "contentHash": "9e52818e68dc3c4835e057ed0e63ab2dcbd36b4c"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1559037427260,
+            "changeTime": 1559037427260,
+            "contentHash": "016876dfd63d903af1f564633832da01efa0df98"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1559037427276,
+            "changeTime": 1559037427276,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1559037519077,
+            "changeTime": 1559037519077,
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordAction.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1559037427281,
+            "changeTime": 1559037427281,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 580,
+            "modifiedTime": 1559037519087,
+            "changeTime": 1559037519087,
+            "contentHash": "75ff42d8ff5caf6ae56c90d3702eb04869c9372e"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1559037427274,
+            "changeTime": 1559037427274,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SF_Training\\myeasysplwc\\force-app\\main\\default\\aura\\openRecordAction\\openRecordActionRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1559037427279,
+            "changeTime": 1559037427279,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ]
+]
